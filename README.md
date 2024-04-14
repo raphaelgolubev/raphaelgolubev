@@ -58,9 +58,15 @@
 </div>
 
 ### Полезные репозитории
-- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
-- [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
-- [Keychain Access](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
-- [Swift Boost](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
-- [Veil](https://github.com/DanielCardonaRojas/Veil) - A flexible string masking and formatting library
-- [Combine Swift Playground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
+Раньше я их форкал, но теперь дабы не засорять список своих репозиториев, я решил вынести их сюда.
+
+- **iOS/Swift**
+    - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
+    - [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
+    - [Keychain Access](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
+    - [Swift Boost](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+    - [Veil](https://github.com/DanielCardonaRojas/Veil) - A flexible string masking and formatting library
+    - [Combine Swift Playground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
+ 
+- **Backend/Python**
+    - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
