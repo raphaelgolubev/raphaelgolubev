@@ -35,7 +35,7 @@
 
 ### Обо мне
 
-- 🔭 Сейчас я работаю над: [Soyamate](https://github.com/raphaelgolubev/soyamate_app) и [Soyamate iOS](https://github.com/raphaelgolubev/Soyamate_iOS)
+- 🔭 Сейчас я работаю над: [GameBuddy](https://github.com/raphaelgolubev/gamebuddy_app) и [GameBuddy iOS](https://github.com/raphaelgolubev/Soyamate_iOS)
 - 🐍 Изучаю Backend разработку на Python
 - 🐈 Люблю кошек!
 - 📫 Электронная почта raphael.golubev@gmail.com
