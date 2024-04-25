@@ -72,6 +72,7 @@
     - [Swift Boost](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
     - [Veil](https://github.com/DanielCardonaRojas/Veil) - A flexible string masking and formatting library
     - [Combine Swift Playground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
+    - [Swift Entry Kit](https://github.com/huri000/SwiftEntryKit)
  
 - **Backend/Python**
     - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
