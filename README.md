@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Привет! 👋</h1>
-    <h3>Full stack разработчик</h3>
+    <h3>Меня зовут Рафаэль</h3>
 </div>
 
 <div id="social" align="center">
@@ -32,8 +32,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23009639.svg?style=for-the-badge&logo=figma&logoColor=white&color=violet)
 
 ### Обо мне
-Меня зовут Рафаэль.
-
 - 🔭 Сейчас я работаю над: [GameBuddy](https://github.com/raphaelgolubev/gamebuddy_app) и [GameBuddy iOS](https://github.com/raphaelgolubev/GameBuddy_iOS)
 - 🐍 Изучаю Backend разработку на Python
 - 🐈 Люблю кошек
