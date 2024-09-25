@@ -12,6 +12,12 @@
   </a>
 </div>
 
+<div id="algorithms" align="center">
+    <a href="https://www.codewars.com/users/raphaelgolubev">
+        <img src="https://www.codewars.com/users/raphaelgolubev/badges/large">
+    </a>
+</div>
+
 ### Языки и инструменты
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
