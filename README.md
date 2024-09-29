@@ -38,7 +38,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23009639.svg?style=for-the-badge&logo=figma&logoColor=white&color=violet)
 
 ### Обо мне
-- 🔭 Сейчас я работаю над: [GameBuddy](https://github.com/raphaelgolubev/gamebuddy_app) и [GameBuddy iOS](https://github.com/raphaelgolubev/GameBuddy_iOS)
+- 🔭 Сейчас я работаю над: [Hola API](https://github.com/raphaelgolubev/hola-api)
 - 🐍 Изучаю Backend разработку на Python
 - 🐈 Люблю кошек
 - 📫 Электронная почта raphael.golubev@gmail.com
