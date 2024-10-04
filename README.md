@@ -46,24 +46,18 @@
   на языке C# в обычном блокноте, и скомпилировал его с помощью встроенного в `.NET Framework 3.5` компилятора `csc.exe`.
   Кстати, вот [мой первый issue](https://github.com/vknet/vk/issues/365), ради его открытия я и создал свой аккаунт на github.
 
-Начал свой путь в программировании в 13 лет с языка **Pascal** и среды разработки **Delphi**. Затем после окончания девятого класса я поступил в 
+Начал свой путь в программировании в 13 лет с языка *Pascal* и среды разработки *Delphi*. Затем после окончания девятого класса я поступил в 
 [ККМТ](https://unitech-mo.ru/obrazovanie/school-divisions/college-space-engineering-technology/) по направлению `"Информационные системы (по отраслям)"`, где спустя недолгое время
-познакомился с языком **C#**. В ходе учебы и в связи с необходимостью разработки клиент-серверных приложений я также познакомился с языком **Python** и веб-фреймворком **Flask**, 
-начал изучать фронтенд стэк (**JS/HTML/CSS**) и реляционные СУБД (**sqllite, Microsoft T-SQL**). Далее я защитил [дипломный проект](https://github.com/raphaelgolubev/golubev_diplom), 
-поработал пару месяцев системным аналитиком в ПФР, откуда был уволен по повестке в армию. После армии продолжил работать с **Python**, параллельно изучая язык **Swift** и iOS-разработку.
-
-### Статистика
-
-<div id="widgets" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelgolubev&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelgolubev&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphaelgolubev&theme=default&utcOffset=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raphaelgolubev&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelgolubev&theme=default" />
-</div>
+познакомился с языком *C#*. В ходе учебы и в связи с необходимостью разработки клиент-серверных приложений я также познакомился с языком *Python* и веб-фреймворком *Flask*, 
+начал изучать фронтенд стэк (*JS/HTML/CSS*) и реляционные СУБД (*sqllite, Microsoft T-SQL*). Далее я защитил [дипломный проект](https://github.com/raphaelgolubev/golubev_diplom), 
+поработал пару месяцев системным аналитиком в ПФР, откуда был уволен по повестке в армию. После армии продолжил работать с *Python*, параллельно изучая язык *Swift* и iOS-разработку.
 
 ### Полезные репозитории
 Раньше я их форкал, но теперь дабы не засорять список своих репозиториев, я решил вынести их сюда.
+
+- **Backend/Python**
+    - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+    - [LiteStar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 
 - **iOS/Swift**
     - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
@@ -73,7 +67,13 @@
     - [Veil](https://github.com/DanielCardonaRojas/Veil) - A flexible string masking and formatting library
     - [Combine Swift Playground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
     - [Swift Entry Kit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
+
  
-- **Backend/Python**
-    - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
-    - [LiteStar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+### Статистика
+<div id="widgets" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelgolubev&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelgolubev&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphaelgolubev&theme=default&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raphaelgolubev&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelgolubev&theme=default" />
+</div>
