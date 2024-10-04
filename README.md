@@ -76,3 +76,4 @@
  
 - **Backend/Python**
     - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+    - [LiteStar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
