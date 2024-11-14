@@ -1,14 +1,17 @@
 <div id="header" align="left">
     <h1>Hi there  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <h3>Меня зовут Рафаэль</h3>
+    <h3>Меня зовут Рафаэль, я разработчик</h3>
 </div>
 
 <div id="social" align="left">
   <a href="https://t.me/PaqpaeJIb">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-    <a href="https://vk.com/kifor">
+  <a href="https://vk.com/kifor">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white">
+  </a>
+  <a href="mailto://raphael.golubev@mail.ru">
+      <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=e-mail&logoColor=white">
   </a>
 </div>
 
@@ -18,8 +21,8 @@
 - 🔭 Сейчас я работаю над: [Hola API](https://github.com/raphaelgolubev/hola-api)
 - 🐍 Изучаю Backend разработку на Python
 - 🐈 Люблю кошек
-- 📫 Электронная почта raphael.golubev@gmail.com
-- ⚡  Интересный факт: на службе в армии я написал ДМБ таймер - простое оконное приложение для отсчета времени до дембеля -
+- 📚 Всегда изучаю что-то новое, расширяю айтишный кругозор
+- ⚡ Интересный факт: на службе в армии я написал ДМБ таймер - простое оконное приложение для отсчета времени до дембеля -
   на языке C# в обычном блокноте, и скомпилировал его с помощью встроенного в `.NET Framework 3.5` компилятора `csc.exe`.
   Кстати, вот [мой первый issue](https://github.com/vknet/vk/issues/365), ради его открытия я и создал свой аккаунт на github.
 
