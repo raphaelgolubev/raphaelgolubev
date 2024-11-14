@@ -48,22 +48,49 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgolubev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/raphaelgolubev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgolubev&layout=compact" />
+</a>
+<a href="https://github.com/raphaelgolubev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelgolubev&show_icons=true" />
+</a>
 
 ---
 
 ### Полезные репозитории
 Раньше я их форкал, но теперь дабы не засорять список своих репозиториев, я решил вынести их сюда.
 
-- **Backend/Python**
-    - [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
-    - [LiteStar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 
-- **iOS/Swift**
-    - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
-    - [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
-    - [Keychain Access](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
-    - [Swift Boost](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
-    - [Veil](https://github.com/DanielCardonaRojas/Veil) - A flexible string masking and formatting library
-    - [Combine Swift Playground](https://github.com/AvdLee/CombineSwiftPlayground) - A Swift playground explaining the concepts of the new Combine framework
-    - [Swift Entry Kit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
+**Backend/Python**
+---
+<a href="https://github.com/zhanymkanov/fastapi-best-practices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhanymkanov&repo=fastapi-best-practices" />
+</a>
+<a href="https://github.com/litestar-org/litestar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=litestar-org&repo=litestar" />
+</a>
+
+
+**iOS/Swift**
+---
+<a href="https://github.com/SwifterSwift/SwifterSwift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SwifterSwift&repo=SwifterSwift" />
+</a>
+<a href="https://github.com/ochococo/Design-Patterns-In-Swift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ochococo&repo=Design-Patterns-In-Swift" />
+</a>
+<a href="https://github.com/kishikawakatsumi/KeychainAccess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kishikawakatsumi&repo=KeychainAccess" />
+</a>
+<a href="https://github.com/sparrowcode/SwiftBoost">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sparrowcode&repo=SwiftBoost" />
+</a>
+<a href="https://github.com/DanielCardonaRojas/Veil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCardonaRojas&repo=Veil" />
+</a>
+<a href="https://github.com/AvdLee/CombineSwiftPlayground">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AvdLee&repo=CombineSwiftPlayground" />
+</a>
+<a href="https://github.com/huri000/SwiftEntryKit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huri000&repo=SwiftEntryKit" />
+</a>
