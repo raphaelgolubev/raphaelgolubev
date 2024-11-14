@@ -42,6 +42,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23009639.svg?style=for-the-badge&logo=docker&logoColor=white&color=#007FFF)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
 ![Xcode](https://img.shields.io/badge/xcode-%23009639.svg?style=for-the-badge&logo=xcode&logoColor=white&color=blue)
 ![Swift](https://img.shields.io/badge/swift-%23009639.svg?style=for-the-badge&logo=swift&logoColor=white&color=orange)
 ![Figma](https://img.shields.io/badge/figma-%23009639.svg?style=for-the-badge&logo=figma&logoColor=white&color=violet)
@@ -49,10 +51,10 @@
 ---
 
 <a href="https://github.com/raphaelgolubev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgolubev&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgolubev&layout=donut" />
 </a>
 <a href="https://github.com/raphaelgolubev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelgolubev&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelgolubev&show_icons=true&show=prs_merged_percentage&rank_icon=github" />
 </a>
 
 ---
