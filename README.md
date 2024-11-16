@@ -10,7 +10,7 @@
   <a href="https://vk.com/kifor">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white">
   </a>
-  <a href="mailto://raphael.golubev@mail.ru">
+  <a href="mailto:raphael.golubev@mail.ru">
       <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=e-mail&logoColor=white">
   </a>
 </div>
