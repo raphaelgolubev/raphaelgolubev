@@ -25,11 +25,11 @@
 
   Кстати, вот [мой первый issue](https://github.com/vknet/vk/issues/365), ради его открытия я и создал свой аккаунт на github.
 
-Начал свой путь в программировании в 13 лет с языка Pascal и среды разработки Delphi. Затем после окончания девятого класса я поступил в 
+<!-- Начал свой путь в программировании в 13 лет с языка Pascal и среды разработки Delphi. Затем после окончания девятого класса я поступил в 
 [ККМТ](https://unitech-mo.ru/obrazovanie/school-divisions/college-space-engineering-technology/) по направлению "Информационные системы (по отраслям)", где спустя недолгое время
 познакомился с языком `C#`. В ходе учебы и в связи с необходимостью разработки клиент-серверных приложений я также познакомился с языком `Python` и веб-фреймворком `Flask`, 
 начал изучать фронтенд стэк (`JS/HTML/CSS`) и реляционные СУБД (`sqllite, Microsoft T-SQL`). Далее я защитил дипломный проект, 
-поработал пару месяцев системным аналитиком в ПФР (Пенсионный Фонд России), откуда был уволен по повестке в армию. После армии продолжил работать с `Python`, параллельно изучая язык `Swift` и iOS-разработку.
+поработал пару месяцев системным аналитиком в ПФР (Пенсионный Фонд России), откуда был уволен по повестке в армию. После армии продолжил работать с `Python`, параллельно изучая язык `Swift` и iOS-разработку. -->
 
 ---
 
@@ -43,12 +43,16 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23009639.svg?style=for-the-badge&logo=docker&logoColor=white&color=#007FFF)
+![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white&color=blue)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![gRPC](https://img.shields.io/badge/grpc-blue.svg?style=for-the-badge&logo=grpc&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23DD0031.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![Cursor](https://img.shields.io/badge/cursor-black.svg?style=for-the-badge&logo=cursor&logoColor=ffdd54)
 
 ![Xcode](https://img.shields.io/badge/xcode-%23009639.svg?style=for-the-badge&logo=xcode&logoColor=white&color=blue)
 ![Swift](https://img.shields.io/badge/swift-%23009639.svg?style=for-the-badge&logo=swift&logoColor=white&color=orange)
-![Figma](https://img.shields.io/badge/figma-%23009639.svg?style=for-the-badge&logo=figma&logoColor=white&color=violet)
+![Figma](https://img.shields.io/badge/figma-%23009639.svg?style=for-the-badge&logo=figma&logoColor=white&color=black)
 
 ---
 
