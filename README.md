@@ -65,6 +65,13 @@
 
 ### Полезные репозитории
 
+**AI**
+---
+
+<a href="https://github.com/ml-explore/mlx-lm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx-lm" />
+</a>
+
 **Backend/Python**
 ---
 <a href="https://github.com/zhanymkanov/fastapi-best-practices">
