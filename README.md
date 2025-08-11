@@ -2,6 +2,8 @@
     <h1>Hi there  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
+<h2>You can contact with me via:</h2>
+
 <div id="social" align="left">
   <a href="https://t.me/PaqpaeJIb">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
@@ -9,7 +11,7 @@
   <a href="https://vk.com/kifor">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white">
   </a>
-  <a href="mailto:raphael.golubev@mail.ru">
+  <a href="mailto:raphael.golubev@gmail.com">
       <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=e-mail&logoColor=white">
   </a>
 </div>
