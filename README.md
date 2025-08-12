@@ -6,13 +6,13 @@
 
 <div id="social" align="left">
   <a href="https://t.me/PaqpaeJIb">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
+      <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://vk.com/kifor">
-      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white">
+      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white">
   </a>
   <a href="mailto:raphael.golubev@gmail.com">
-      <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=e-mail&logoColor=white">
+      <img src="https://img.shields.io/badge/Gmail-f0f1f2?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
 </div>
 
