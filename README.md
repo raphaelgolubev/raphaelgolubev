@@ -35,25 +35,44 @@
 ---
 
 ### Языки и инструменты
+#### DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### IDE
+![Xcode](https://img.shields.io/badge/xcode-%23009639.svg?style=for-the-badge&logo=xcode&logoColor=white&color=blue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/cursor-black.svg?style=for-the-badge&logo=cursor&logoColor=ffdd54)
+
+#### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white&color=blue)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![gRPC](https://img.shields.io/badge/grpc-blue.svg?style=for-the-badge&logo=grpc&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23DD0031.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=ffdd54)
-![Cursor](https://img.shields.io/badge/cursor-black.svg?style=for-the-badge&logo=cursor&logoColor=ffdd54)
 
-![Xcode](https://img.shields.io/badge/xcode-%23009639.svg?style=for-the-badge&logo=xcode&logoColor=white&color=blue)
+#### Auth
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth](https://img.shields.io/badge/oauth-black?style=for-the-badge&logo=oauth%20web%20tokens)
+
+#### Protocols
+![HTTP](https://img.shields.io/badge/http-blue.svg?style=for-the-badge&logo=http&logoColor=white)
+![gRPC](https://img.shields.io/badge/grpc-blue.svg?style=for-the-badge&logo=grpc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/websocket-blue.svg?style=for-the-badge&logo=websocket&logoColor=white)
+
+#### Web
+![Svelte](https://img.shields.io/badge/svelte-%23DD0031.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-teal.svg?style=for-the-badge&logo=vue_js&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+
+#### Apple platforms
 ![Swift](https://img.shields.io/badge/swift-%23009639.svg?style=for-the-badge&logo=swift&logoColor=white&color=orange)
+
+#### Design tools
 ![Figma](https://img.shields.io/badge/figma-%23009639.svg?style=for-the-badge&logo=figma&logoColor=white&color=black)
+![Excalidraw](https://img.shields.io/badge/excalidraw-%23009639.svg?style=for-the-badge&logo=excalidraw&logoColor=white&color=6965db)
 
 ---
 
