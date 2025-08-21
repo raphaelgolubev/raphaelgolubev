@@ -19,7 +19,7 @@
 ---
 
 ### Обо мне
-- 🔭 Сейчас я работаю над: [бекендом для Anomer](https://github.com/raphaelgolubev/anomer_backend) и [iOS-приложением Anomer](https://github.com/raphaelgolubev/anomer_ios)
+- 🔭 Сейчас я работаю над: [iOS-приложением Anomer](https://github.com/raphaelgolubev/anomer_ios) и [бекендом для Anomer](https://github.com/raphaelgolubev/anomer_backend)
 - 🎂 Мне 25 лет
 - 🐈 Люблю кошек
 - 📚 Всегда изучаю что-то новое:
